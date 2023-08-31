@@ -1,0 +1,24 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bilutve.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Unknow8x/repo",
+        "fileSize": 15178,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated, Unknow8x"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "TvSeries",
+            "Movie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "BilutvProvider",
+        "url": "https://raw.githubusercontent.com/Unknow8x/repo/builds/BilutvProvider.cs3",
+        "name": "BilutvProvider"
+    }
+]
